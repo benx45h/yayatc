@@ -9,5 +9,5 @@ The goal here was to minimize design time, and other temperature controllers may
 Revision 1 has not been tested. If you want to make one anyways, go ahead.
 
 Revision 1 known issues:
-- No way to tell if temperature is positive or negative
-- Only 2 digits. No way to display temperatures above 100.
+~~ - No way to tell if temperature is positive or negative ~~  
+~~ - Only 2 digits. No way to display temperatures above 100. ~~
